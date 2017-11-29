@@ -57,7 +57,7 @@
             <br>
             <br>
             
-            <div>**Attention:Your login status will be automatically terminated within 30 minutes.**</div>
+            <div>**Attention:Your login status will be automatically terminated within 15 minutes.**</div>
         </form>
     </article>
     
