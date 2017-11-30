@@ -38,7 +38,7 @@ response.flushBuffer();
       <br>
        <br>
     
-   <a style="margin-left:45%" href="index.jsp"> <strong>Return to Home</strong></a>
+   <a style="margin-left:45%" href="index.jsp"> <strong>Return Home</strong></a>
    <br>
    <br>
    <br>

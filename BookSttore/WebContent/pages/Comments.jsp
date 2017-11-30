@@ -22,7 +22,7 @@
         SharonJia's Online Bookstore-Some Comments
         <div></div>
     </header>
-    
+    <a style="margin-left:65%" href="index.jsp"> <strong>Return Home</strong></a>
   
           <br>
          <ul>  
