@@ -42,7 +42,7 @@ public class UserServlet extends HttpServlet {
 			Account account) throws ServletException, IOException{
 		List<Account> list = ServiceFactory.getService("user").findByConditions(account.getAccount());
 		if(list.isEmpty() || !list.get(0).getPassword().equals(account.getPassword())){
-			req.setAttribute("login_err", "Unknown user name or bad password!");
+			req.setAttribute("login_err", "Unknown username or bad password!");
 			forward(req, resp,"/pages/login_register.jsp");
 			return;
 		}

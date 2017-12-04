@@ -36,7 +36,7 @@
         </form>
     </article> 
     <article class="login">
-    <header><a style="margin-left:60%" href="index.jsp">Return Home</a></header>
+    <header><a style="margin-left:60%" href="index.jsp">Home</a></header>
         <form action="do/user" method="post">
              <header>Log in
              	<c:if test="${login_err != null }">
